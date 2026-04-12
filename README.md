@@ -11,7 +11,7 @@
 Backend-oriented developer with experience in **native PHP**, **Laravel**, **Vue.js**, and **jQuery**.  
 I design and build **RESTful APIs** and integrate **dynamic 3D environments** for interactive web experiences using **BabylonJS**, **Unity**, and **C#**.
 
-- 💻 Strong background in native **PHP**,**jQuery** and **Vue**
+- 💻 Strong background in native **PHP**, **jQuery** and **Vue**
 - 📈 Actively learning **Laravel**
 - 🔌 Building clean and scalable **RESTful APIs**
 - 🌐 Integration of **interactive 3D environments** in web applications
