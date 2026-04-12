@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=PHP+Developer;Laravel+%7C+Vue.js+%7C+Native+PHP+7;RESTful+API+Builder;BabylonJS+%7C+Unity+%7C+C%23;Building+dynamic+3D+web+experiences" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Zhey-on">
-    <img src="https://img.shields.io/github/followers/Zhey-on?label=Followers&style=for-the-badge" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Zhey-on&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -30,15 +23,6 @@ I design and build **RESTful APIs** and integrate **dynamic 3D environments** fo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,jquery,cs,unity,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zhey-on&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhey-on&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
