@@ -43,14 +43,6 @@ I design and build **RESTful APIs** and integrate **dynamic 3D environments** fo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zhey-on&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
 ## 🌍 Connect with Me
 
 <p align="center">
