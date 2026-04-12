@@ -1,43 +1,85 @@
 <h1 align="center">Hi, I'm Edoardo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=PHP+Developer;RESTful+API+Builder;3D+Web+Experience+Engineer;BabylonJS+%7C+Unity+%7C+C%23;Native+PHP+7+%7C+jQuery+%7C+Dynamic+Environments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=PHP+Developer;Laravel+%7C+Vue.js+%7C+Native+PHP+7;RESTful+API+Builder;BabylonJS+%7C+Unity+%7C+C%23;Building+dynamic+3D+web+experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Backend-oriented developer with hands-on experience in <b>native PHP 7</b>, <b>jQuery</b>, and <b>RESTful API</b> development.  
-  I also build <b>dynamic 3D environments</b> and interactive experiences using <b>BabylonJS</b>, <b>Unity</b>, and <b>C#</b>.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,jquery,cs,unity,git,github,mysql,vscode" />
+  <a href="https://github.com/Zhey-on">
+    <img src="https://img.shields.io/github/followers/Zhey-on?label=Followers&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Zhey-on&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💻 Strong experience with **native PHP 7** and **jQuery**
-- 🔌 Design and development of **RESTful APIs**
-- 🌐 Integration of **dynamic 3D environments** in web projects
+Backend-oriented developer with experience in **native PHP**, **Laravel**, **Vue.js**, and **jQuery**.  
+I design and build **RESTful APIs** and integrate **dynamic 3D environments** for interactive web experiences using **BabylonJS**, **Unity**, and **C#**.
+
+- 💻 Strong background in **PHP 7**, **Laravel**, **Vue**, and **jQuery**
+- 🔌 Building clean and scalable **RESTful APIs**
+- 🌐 Integration of **interactive 3D environments** in web applications
 - 🎮 Experience with **BabylonJS**, **Unity**, and **C#**
-- 🧠 Focused on building practical, scalable, and interactive solutions
+- 🧠 Focused on practical, maintainable, and performance-driven solutions
 
 ---
 
-### 🛠 Tech Focus
-
-`PHP 7` `jQuery` `REST APIs` `BabylonJS` `Unity` `C#` `MySQL` `JavaScript`
-
----
-
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUOUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,jquery,cs,unity,mysql,git,github,vscode" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zhey-on&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhey-on&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contributions Counter
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zhey-on&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhey-on&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zhey-on&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Zhey-on">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/edoardo-rosso-0a31a0323">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=footer" />
 </p>
