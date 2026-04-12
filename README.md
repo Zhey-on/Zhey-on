@@ -66,6 +66,31 @@ I also work on **interactive 3D web experiences** using **BabylonJS**, with addi
 </p>
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zhey-on&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhey-on&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contributions Counter
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zhey-on&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhey-on&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 - Building solid backend architectures with **PHP** and **Laravel**
