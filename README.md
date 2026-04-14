@@ -85,7 +85,6 @@
 - 🏗 Scalable backend architectures
 - ⚡ Clean Laravel development
 - 🎨 Vue interfaces
-- 🌐 Real-time 3D experiences with BabylonJS
 
 ---
 
