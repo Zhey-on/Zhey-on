@@ -1,79 +1,70 @@
 <h1 align="center">Hi, I'm Edoardo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&lines=PHP+Developer;Laravel+%7C+Vue.js+%7C+Native+PHP;RESTful+API+Builder;BabylonJS+%7C+Unity+%7C+C%23;Building+dynamic+3D+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%7C+Vue.js+%7C+Native+PHP;RESTful+API+Builder;3D+Web+Experiences+with+BabylonJS;Clean+%26+Scalable+Code" />
 </p>
 
 <p align="center">
-  Backend-oriented developer focused on clean APIs, dynamic 3D integrations, and practical web solutions.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zhey-on">
-    <img src="https://img.shields.io/badge/GitHub-Zhey--on-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/edoardo-rosso-0a31a0323">
-    <img src="https://img.shields.io/badge/LinkedIn-Edoardo%20Rosso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:38bdf8&height=2&section=header"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a developer with hands-on experience in **native PHP**, **jQuery**, **Vue.js**, and **RESTful API development**.  
-I also work on **interactive 3D web experiences** using **BabylonJS**, with additional experience in **Unity** and **C#**.
+💡 Backend-focused developer building **clean APIs** and **interactive 3D web apps**
 
-- 💻 Strong background in **PHP**, **jQuery**, and **Vue**
-- 📈 Actively learning and improving with **Laravel**
-- 🔌 Building clean and scalable **RESTful APIs**
-- 🌐 Integrating **interactive 3D environments** into web applications
-- 🎮 Experience with **BabylonJS**, **Unity**, and **C#**
-- 🧠 Focused on maintainable, practical, and performance-driven solutions
+- 💻 PHP, Vue, jQuery
+- 📈 Growing with Laravel
+- 🔌 REST API architecture
+- 🌐 3D web integrations
+- 🎮 BabylonJS, Unity, C#
+- ⚡ Performance & maintainability first
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Stack
 
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,js,jquery" />
 </p>
 
-### 3D / Interactive
-<p align="left">
-  <img src="https://img.shields.io/badge/BabylonJS-BB464B?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
-### Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+### 🧊 3D / Interactive
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+  <img src="https://img.shields.io/badge/BabylonJS-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Contributions Counter
+## 🖥️ Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch" />
+</p>
+
+💻 Daily drivers: **Ubuntu** & **Arch Linux**
+
+---
+
+## 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zhey-on&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zhey-on&theme=tokyonight&hide_border=true" />
@@ -81,7 +72,7 @@ I also work on **interactive 3D web experiences** using **BabylonJS**, with addi
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhey-on&theme=tokyo-night&hide_border=true" />
@@ -91,23 +82,26 @@ I also work on **interactive 3D web experiences** using **BabylonJS**, with addi
 
 ## 🎯 Current Focus
 
-- Building solid backend architectures with **PHP** and **Laravel**
-- Creating interactive web interfaces with **Vue.js**
-- Developing **3D experiences** and scene integrations with **BabylonJS**
-- Writing cleaner and more maintainable code every day
+- 🏗 Scalable backend architectures
+- ⚡ Clean Laravel development
+- 🎨 Vue interfaces
+- 🌐 Real-time 3D experiences with BabylonJS
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect
 
 <p align="center">
+  <a href="https://github.com/Zhey-on">
+    <img src="https://img.shields.io/badge/GitHub-Zhey--on-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/edoardo-rosso-0a31a0323">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Edoardo%20Rosso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=130&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=140&section=footer"/>
 </p>
