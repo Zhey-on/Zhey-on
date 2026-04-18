@@ -46,10 +46,10 @@
 ## 🖥️ Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,debian" />
 </p>
 
-💻 Daily drivers: **Ubuntu** & **Arch Linux**
+💻 Daily drivers: **Ubuntu**, **Arch Linux** & **Debian**
 
 ---
 
