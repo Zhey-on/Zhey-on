@@ -55,7 +55,8 @@
 
 ## 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
 </p>
 
 ---
