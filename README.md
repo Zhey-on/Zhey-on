@@ -62,6 +62,11 @@
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
 </p>
 
+### 🤖 AI Assistants
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
