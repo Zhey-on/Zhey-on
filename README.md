@@ -21,6 +21,9 @@
 - 🎮 BabylonJS, Unity, C#
 - ⚡ Performance & maintainability first
 
+> I use AI assistants like GitHub Copilot daily.  
+> Without proper testing, it’s just autocomplete with confidence.
+
 ---
 
 ## 🧠 Tech Stack
