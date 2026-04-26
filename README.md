@@ -16,6 +16,7 @@
 
 - 💻 PHP, Vue, jQuery
 - 📈 Growing with Laravel
+- Vibe Coding in Flutter
 - 🔌 REST API architecture
 - 🌐 3D web integrations
 - 🎮 BabylonJS, Unity, C#
