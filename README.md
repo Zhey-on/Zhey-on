@@ -22,8 +22,7 @@
 - 🎮 BabylonJS, Unity, C#
 - ⚡ Performance & maintainability first
 
-> I use AI assistants like GitHub Copilot daily.  
-> Without proper testing, it’s just autocomplete with confidence.
+> I use AI assistants like OpenAI Codex daily.  
 
 ---
 
@@ -65,7 +64,7 @@
 
 ### 🤖 AI Assistants
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
