@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://zheyondev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio%20%2F%20Bio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:38bdf8&height=2&section=header"/>
 </p>
 
@@ -21,6 +27,7 @@
 - 🌐 3D web integrations
 - 🎮 BabylonJS, Unity, C#
 - ⚡ Performance & maintainability first
+- 🌍 Portfolio / Bio: **[zheyondev-portfolio.vercel.app](https://zheyondev-portfolio.vercel.app/)**
 
 > I use AI assistants like OpenAI Codex daily.  
 
@@ -100,6 +107,9 @@
 ## 🌍 Connect
 
 <p align="center">
+  <a href="https://zheyondev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio%20%2F%20Bio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/Zhey-on">
     <img src="https://img.shields.io/badge/GitHub-Zhey--on-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
