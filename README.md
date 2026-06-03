@@ -79,11 +79,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhey-on&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Zhey-on&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" 
+    alt="Edoardo's GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zhey-on&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Zhey-on&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub streak stats"
+  />
 </p>
 
 ---
